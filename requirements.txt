@@ -1,4 +1,5 @@
 Flask
 requests
-playwright
+beautifulsoup4
 gunicorn
+playwright-chromium
