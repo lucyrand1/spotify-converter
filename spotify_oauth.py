@@ -3,7 +3,7 @@ import requests, urllib.parse
 from requests_html import HTMLSession
 
 app = Flask(__name__)
-app.secret_key = 'replace_with_a_long_random_secret'
+app.secret_key = 'ee8767622ff17f9f5860267c2192d5d3c3a412cb4930a9b2'
 
 # Spotify API credentials
 client_id     = '51277946d04c44bbafd86d27783987f5'
