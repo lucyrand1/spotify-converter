@@ -1,5 +1,6 @@
 Flask
 requests
 requests-html
-gunicorn
 beautifulsoup4
+lxml[html_clean]
+gunicorn
