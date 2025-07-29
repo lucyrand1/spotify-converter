@@ -8,7 +8,7 @@ app.secret_key = 'replace_this_with_a_real_secret_key'  # Use a strong secret ke
 # Spotify API credentials — your actual values:
 client_id = '51277946d04c44bbafd86d27783987f5'
 client_secret = 'bdfc543f37bb416d912e75bfa428e32f'
-redirect_uri = 'https://spotify-converter-1jgs.onrender.com/callback'  # Your Render app's URL + /callback
+redirect_uri = 'https://spotify-converter-1jgs.onrender.com/callback'
 
 scope = 'playlist-modify-private playlist-modify-public'
 
