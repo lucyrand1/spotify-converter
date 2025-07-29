@@ -53,3 +53,4 @@ def callback():
 
 if __name__ == '__main__':
     app.run(debug=True, port=5002)
+Fix redirect_uri for Render deployment
